@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Transaction
+comment1.params=pieceName\ seller\ buyer\ sales\ year
+comment1.target=Transaction(java.lang.String,\ Collector,\ Collector,\ double,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=double\ getSales()
+comment4.params=
+comment4.target=int\ getYear()
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Collector
+comment1.params=colID\ colName\ category
+comment1.target=Collector(int,\ java.lang.String,\ char)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

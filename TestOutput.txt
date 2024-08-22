@@ -1,0 +1,18 @@
+-------------- Before Adding Transactions --------------
+
+A grand total of $0.00 was spent prior to adding transactions to the DB.
+
+-------------- After Adding Transactions --------------
+[AtlVase sold by {ID: 2 | Name: Metro M | Cat: G} to {ID: 1 | Name: B&B Bros | Cat: C} for $0.00 in 2020]
+[GldSilk sold by {ID: 6 | Name: CL Fabrics | Cat: C} to {ID: 3 | Name: Rare Goods | Cat: C} for $300000.00 in 2017]
+[GldSilk sold by {ID: 5 | Name: Mason C | Cat: N} to {ID: 6 | Name: CL Fabrics | Cat: C} for $50000.00 in 2004]
+[AtlVase sold by {ID: 5 | Name: Mason C | Cat: N} to {ID: 3 | Name: Rare Goods | Cat: C} for $100000.00 in 2014]
+[GldSilk sold by {ID: 3 | Name: Rare Goods | Cat: C} to {ID: 5 | Name: Mason C | Cat: N} for $150000.00 in 2013]
+[MPBracelet sold by {ID: 4 | Name: FA Ctr | Cat: N} to {ID: 5 | Name: Mason C | Cat: N} for $0.00 in 2008]
+
+A grand total of $600000.00 was spent on transactions in the database.
+
+List of transactions occurring between 2013 and 2017:
+[GldSilk sold by {ID: 6 | Name: CL Fabrics | Cat: C} to {ID: 3 | Name: Rare Goods | Cat: C} for $300000.00 in 2017]
+[AtlVase sold by {ID: 5 | Name: Mason C | Cat: N} to {ID: 3 | Name: Rare Goods | Cat: C} for $100000.00 in 2014]
+[GldSilk sold by {ID: 3 | Name: Rare Goods | Cat: C} to {ID: 5 | Name: Mason C | Cat: N} for $150000.00 in 2013]
